@@ -1,2 +1,2 @@
-token
+token lenovo
 e1d21c73749ad97d9d5b0e735b0e4a874f3c9749
