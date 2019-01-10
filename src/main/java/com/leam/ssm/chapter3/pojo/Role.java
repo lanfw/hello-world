@@ -23,4 +23,9 @@ public class Role {
 		this.note = note;
 	} 
 	
+	public  Role(long id, String roleName, String note) {
+		this.id = id;
+		this.roleName = roleName;
+		this.note = note;
+	}
 }
